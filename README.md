@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deadbeef1a4
 - 👀 I’m interested in web development, cybersecurity, and game development
 - 🌱 I’m currently learning Linux and how to not be a n00b at CTFs
-- 💞️ I’m looking to collaborate on [OWL](https://github.com/deadbeef1a4/OLP)
+- 💞️ I’m looking to collaborate on [OWL](https://github.com/deadbeef1a4/OWL)
 - 📫 How to reach me: deadbeef1a4 on everything!
 
 <!---
